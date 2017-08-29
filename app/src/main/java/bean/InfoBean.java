@@ -5,4 +5,6 @@ package bean;
  */
 
 public class InfoBean {
+    public String title;
+    public String url;
 }
